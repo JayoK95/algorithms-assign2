@@ -1,0 +1,454 @@
+<object-stream>
+  <list>
+    <models.Movie>
+      <movieID>1</movieID>
+      <title>Ted</title>
+      <year>2012</year>
+      <genre>Comedy</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>15.0</totalRating>
+      <ratingCount>5.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>2</movieID>
+      <title>Faster</title>
+      <year>2010</year>
+      <genre>Action</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>3</movieID>
+      <title>Push</title>
+      <year>2009</year>
+      <genre>Action</genre>
+      <averageRating>3.25</averageRating>
+      <totalRating>13.0</totalRating>
+      <ratingCount>4.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>4</movieID>
+      <title>The Lord of the Rings: The Fellowship of the Ring</title>
+      <year>2001</year>
+      <genre>Adventure</genre>
+      <averageRating>4.0</averageRating>
+      <totalRating>12.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>5</movieID>
+      <title>The Lord of the Rings: The Two Towers</title>
+      <year>2002</year>
+      <genre>Adventure</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>6</movieID>
+      <title>The Lord of the Rings: The Return of the King</title>
+      <year>2003</year>
+      <genre>Adventure</genre>
+      <averageRating>2.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>7</movieID>
+      <title>The Shawshank Redemption</title>
+      <year>1994</year>
+      <genre>Drama</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>8</movieID>
+      <title>The Dark Knight</title>
+      <year>2008</year>
+      <genre>Action</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>9</movieID>
+      <title>Forrest Gump</title>
+      <year>1994</year>
+      <genre>Drama</genre>
+      <averageRating>4.0</averageRating>
+      <totalRating>12.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>10</movieID>
+      <title>Interstellar</title>
+      <year>2014</year>
+      <genre>Adventure</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>11</movieID>
+      <title>The Lion King</title>
+      <year>1994</year>
+      <genre>Animation</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>12</movieID>
+      <title>Django Unchained</title>
+      <year>2012</year>
+      <genre>Western</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>13</movieID>
+      <title>Toy Story</title>
+      <year>1995</year>
+      <genre>Animation</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>14</movieID>
+      <title>Toy Story 2</title>
+      <year>1999</year>
+      <genre>Animation</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>15</movieID>
+      <title>Toy Story 3</title>
+      <year>2010</year>
+      <genre>Animation</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>16</movieID>
+      <title>Warrior</title>
+      <year>2011</year>
+      <genre>Sport</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>17</movieID>
+      <title>The Wolf of Wall Street</title>
+      <year>2013</year>
+      <genre>Biography</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>18</movieID>
+      <title>Gran Torino</title>
+      <year>2008</year>
+      <genre>Drama</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>19</movieID>
+      <title>The Martian</title>
+      <year>2015</year>
+      <genre>Sci-Fi</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>20</movieID>
+      <title>Finding Nemo</title>
+      <year>2003</year>
+      <genre>Animation</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>21</movieID>
+      <title>Gone Girl</title>
+      <year>2014</year>
+      <genre>Crime</genre>
+      <averageRating>2.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>22</movieID>
+      <title>Rush</title>
+      <year>2013</year>
+      <genre>Biography</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>23</movieID>
+      <title>12 Years a Slave</title>
+      <year>2013</year>
+      <genre>Biography</genre>
+      <averageRating>4.5</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>24</movieID>
+      <title>Million Dollar Baby</title>
+      <year>2004</year>
+      <genre>Sport</genre>
+      <averageRating>4.5</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>25</movieID>
+      <title>Shutter Island</title>
+      <year>2010</year>
+      <genre>Mystery</genre>
+      <averageRating>1.5</averageRating>
+      <totalRating>3.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>26</movieID>
+      <title>Jurassic Park</title>
+      <year>1993</year>
+      <genre>Thriller</genre>
+      <averageRating>1.5</averageRating>
+      <totalRating>3.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>27</movieID>
+      <title>Jurassic World</title>
+      <year>2015</year>
+      <genre>Action</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>28</movieID>
+      <title>The Bourne Ultimatum</title>
+      <year>2007</year>
+      <genre>Thriller</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>29</movieID>
+      <title>Monsters Inc.</title>
+      <year>2001</year>
+      <genre>Animation</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>30</movieID>
+      <title>Monsters University</title>
+      <year>2013</year>
+      <genre>Animation</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>31</movieID>
+      <title>The Avengers</title>
+      <year>2012</year>
+      <genre>Action</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>32</movieID>
+      <title>Harry Potter and The Philosopher&apos;s Stone</title>
+      <year>2001</year>
+      <genre>Fantasy</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>33</movieID>
+      <title>Harry Potter and The Chamber of Secrets</title>
+      <year>2002</year>
+      <genre>Fantasy</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>34</movieID>
+      <title>Harry Potter and The Prisoner of Azkaban</title>
+      <year>2004</year>
+      <genre>Fantasy</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>35</movieID>
+      <title>Harry Potter and The Goblet of Fire</title>
+      <year>2005</year>
+      <genre>Fantasy</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>36</movieID>
+      <title>Harry Potter and The Order of the Phoenix</title>
+      <year>2007</year>
+      <genre>Fantasy</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>37</movieID>
+      <title>Harry Potter and The Half-Blood Prince</title>
+      <year>2009</year>
+      <genre>Fantasy</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>38</movieID>
+      <title>Harry Potter and The Deathly Hallows: Part 1</title>
+      <year>2010</year>
+      <genre>Fantasy</genre>
+      <averageRating>2.5</averageRating>
+      <totalRating>5.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>39</movieID>
+      <title>Harry Potter and The Deathly Hallows: Part 2</title>
+      <year>2011</year>
+      <genre>Fantasy</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>40</movieID>
+      <title>Guardians of the Galaxy</title>
+      <year>2014</year>
+      <genre>Sci-Fi</genre>
+      <averageRating>3.5</averageRating>
+      <totalRating>7.0</totalRating>
+      <ratingCount>2.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>41</movieID>
+      <title>The Hunger Games</title>
+      <year>2012</year>
+      <genre>Adventure</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>42</movieID>
+      <title>The Hunger Games: Catching Fire</title>
+      <year>2013</year>
+      <genre>Adventure</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>43</movieID>
+      <title>The Hunger Games: Mockingjay Part 1</title>
+      <year>2014</year>
+      <genre>Adventure</genre>
+      <averageRating>2.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>44</movieID>
+      <title>The Hunger Games: Mockingjay Part 2</title>
+      <year>2015</year>
+      <genre>Adventure</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>45</movieID>
+      <title>Fight Club</title>
+      <year>1999</year>
+      <genre>Drama</genre>
+      <averageRating>4.0</averageRating>
+      <totalRating>12.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>46</movieID>
+      <title>Inception</title>
+      <year>2010</year>
+      <genre>Mystery</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>47</movieID>
+      <title>The Matrix</title>
+      <year>1999</year>
+      <genre>Sci-Fi</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>48</movieID>
+      <title>Saving Private Ryan</title>
+      <year>1998</year>
+      <genre>War</genre>
+      <averageRating>2.0</averageRating>
+      <totalRating>6.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>49</movieID>
+      <title>The Green Mile</title>
+      <year>1999</year>
+      <genre>Drama</genre>
+      <averageRating>3.0</averageRating>
+      <totalRating>9.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+    <models.Movie>
+      <movieID>50</movieID>
+      <title>WALL.E</title>
+      <year>2008</year>
+      <genre>Animation</genre>
+      <averageRating>4.0</averageRating>
+      <totalRating>12.0</totalRating>
+      <ratingCount>3.0</ratingCount>
+    </models.Movie>
+  </list>
+</object-stream>
